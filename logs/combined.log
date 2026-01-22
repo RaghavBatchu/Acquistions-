@@ -18,3 +18,8 @@
 {"level":"info","message":"User batchuraghavendra417@gmail.com created successfully","service":"acquisitions-api","timestamp":"2026-01-22T17:34:41.954Z"}
 {"level":"info","message":"user successfully registered:${email}","service":"acquisitions-api","timestamp":"2026-01-22T17:34:41.957Z"}
 {"level":"info","message":"::1 - - [22/Jan/2026:17:34:41 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 136 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2026-01-22T17:34:41.960Z"}
+{"level":"info","message":"User batchuraghavendra417@gmail.com authenticated successfully","service":"acquisitions-api","timestamp":"2026-01-22T17:55:18.944Z"}
+{"level":"info","message":"User signed in successfully: batchuraghavendra417@gmail.com","service":"acquisitions-api","timestamp":"2026-01-22T17:55:18.948Z"}
+{"level":"info","message":"::1 - - [22/Jan/2026:17:55:18 +0000] \"POST /api/auth/sign-IN HTTP/1.1\" 200 135 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2026-01-22T17:55:18.950Z"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api","timestamp":"2026-01-22T17:55:37.701Z"}
+{"level":"info","message":"::1 - - [22/Jan/2026:17:55:37 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.49.1\"","service":"acquisitions-api","timestamp":"2026-01-22T17:55:37.702Z"}

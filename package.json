@@ -5,12 +5,13 @@
   "main": "index.js",
   "imports": {
     "#config/*": "./src/config/*",
-    "#controllers/*": "./src/controllers/*",
-    "#middlewares/*": "./src/middlewares/*",
+    "#controller/*": "./src/controller/*",
+    "#middleware/*": "./src/middleware/*",
     "#models/*": "./src/models/*",
     "#routes/*": "./src/routes/*",
     "#utils/*": "./src/utils/*",
-    "#validators/*": "./src/validators/*"
+    "#services/*": "./src/services/*",
+    "#validations/*": "./src/validations/*"
   },
   "scripts": {
     "dev": "node --watch src/index.js",
